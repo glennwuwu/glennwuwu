@@ -1,8 +1,8 @@
 <p align="center">
     <b>Welcome!</b><br>
     <i>
-        I'm Glenn.<br>
-        I'm a student studying data analytics and AI at Singapore Polytechnic. <br>
+        I'm Glenn <br>
+        I'm a student studying data analytics and AI at Singapore Polytechnic <br>
         I like cats :> <img src="https://avatars.githubusercontent.com/u/22255356?v=4" width="28px" alt="👋">
     </i><br><br>
     
@@ -34,11 +34,11 @@
   <a href="https://github.com/glennwuwu">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=glennwuwu&theme=transparent" />
   </a>
-  <a href="https://github.com/glennwuwu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glennwuwu&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+  <img src="https://i.redd.it/3w2il6vujhv21.gif" alt="cat"> <br>
 </p>
 </details>
+
+
 
 <p align="center">
   <a href="https://github.com/glennwuwu">
