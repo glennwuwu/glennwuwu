@@ -3,7 +3,7 @@
     <i>
         I'm Glenn <br>
         I'm a student studying data analytics and AI at Singapore Polytechnic <br>
-        I like cats :> <img src="https://avatars.githubusercontent.com/u/22255356?v=4" width="28px" alt="👋">
+        <img src="https://avatars.githubusercontent.com/u/22255356?v=4" width="28px" alt="👋">
     </i><br><br>
     
 </p>
@@ -23,6 +23,11 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/glennwuwu)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/glennwuwu)
 
+### Robotics
+
+[![LEGO](https://img.shields.io/badge/LEGO-EV3-red)](https://github.com/glennwuwu/WRO-solutions)
+[![Labview](https://img.shields.io/badge/labview-black?style=for-the-badge&logo=labview)](https://github.com/glennwuwu)
+
 <details>
 <p align="center">
   <a href="https://github.com/glennwuwu">
@@ -37,8 +42,6 @@
   <img src="https://i.redd.it/3w2il6vujhv21.gif" alt="cat"> <br>
 </p>
 </details>
-
-
 
 <p align="center">
   <a href="https://github.com/glennwuwu">
